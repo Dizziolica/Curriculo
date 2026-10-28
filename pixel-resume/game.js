@@ -2206,7 +2206,7 @@ const CREDITS = [
   { type: "space", h: 24 },
   { type: "role", label: { en: "STARRING", pt: "COM" }, name: "Caroline", h: 30 },
   { type: "role", label: { en: "SIDEKICK", pt: "COMPANHEIRO" }, name: { en: "Loly", pt: "Loly" }, h: 30 },
-  { type: "role", label: { en: "SIDEKICK", pt: "COMPANHEIRO" }, name: { en: "Porthos", pt: "Porthos }, h: 30 },
+  { type: "role", label: { en: "SIDEKICK", pt: "COMPANHEIRO" }, name: { en: "Porthos", pt: "Porthos" }, h: 30 },
   { type: "role", label: { en: "SPECIAL GUEST", pt: "CONVIDADO ESPECIAL" }, name: { en: "The Birthday Cake", pt: "O Bolo de Aniversário" }, h: 30 },
   { type: "role", label: { en: "HEARTS", pt: "CORAÇÕES" }, name: `${TOTAL_HEARTS}/${TOTAL_HEARTS}`, h: 30 },
   { type: "role", label: { en: "GEMS", pt: "GEMAS" }, name: `${TOTAL_GEMS}/${TOTAL_GEMS}`, h: 30 },
